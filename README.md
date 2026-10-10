@@ -18,7 +18,7 @@ The goal is to transform raw inventory and transaction data into actionable insi
 ## Project Visualizations
 
 ### Vendor Performance
-![Vendor Performance](images/Screenshot (224).png)
+![Vendor Performance](Screenshot (224).png)
 
 ### Inventory Analysis
 ![Inventory Analysis](images/inventory_analysis.png)
