@@ -15,7 +15,16 @@ The goal is to transform raw inventory and transaction data into actionable insi
 - Examine stock turnover and unsold inventory value.
 - Clean and consolidate data from multiple source files into a unified analytical dataset.
 - Prepare the final dataset for interactive dashboard development in Power BI.
+## Project Visualizations
 
+### Vendor Performance
+![Vendor Performance](images/Screenshot (224).png)
+
+### Inventory Analysis
+![Inventory Analysis](images/inventory_analysis.png)
+
+### Sales Analysis
+![Sales Analysis](images/sales_analysis.png)
 ## Tech Stack
 
 - **Python** — Data processing and analysis
