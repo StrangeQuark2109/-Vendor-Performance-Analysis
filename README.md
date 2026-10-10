@@ -17,14 +17,18 @@ The goal is to transform raw inventory and transaction data into actionable insi
 - Prepare the final dataset for interactive dashboard development in Power BI.
 ## Project Visualizations
 
+
+## Project Visualizations
+
 ### Vendor Performance
-![Vendor Performance](images/Screenshot (224).png)
+![Vendor Performance](./Screenshot%20(224).png)
 
 ### Inventory Analysis
-![Inventory Analysis](images/inventory_analysis.png)
+![Inventory Analysis](./Screenshot%20(225).png)
 
 ### Sales Analysis
-![Sales Analysis](images/sales_analysis.png)
+![Sales Analysis](./Screenshot%20(226).png)
+
 ## Tech Stack
 
 - **Python** — Data processing and analysis
