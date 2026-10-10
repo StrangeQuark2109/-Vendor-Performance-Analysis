@@ -5,7 +5,7 @@
 This project analyzes vendor performance, product sales, purchasing costs, profitability, and inventory using Python, Pandas, data visualization, and SQL/SQLite.
 
 The goal is to transform raw inventory and transaction data into actionable insights that can help businesses understand sales performance, evaluate vendors, monitor profitability, and identify potential inventory management issues.
-Link to dataset - https://topmate.io/ayushi_mishra/1981139/pay
+Link to dataset - https://topmate.io/ayushi_mishra/1557424 (Multiple GB)
 ## Objectives
 
 - Analyze sales and purchase performance across products and vendors.
